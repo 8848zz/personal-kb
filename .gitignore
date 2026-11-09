@@ -1,0 +1,7 @@
+data/index/
+__pycache__/
+*.pyc
+.venv/
+
+# 真实个人资料永不入库；公开演示用 data/demo/
+data/raw/

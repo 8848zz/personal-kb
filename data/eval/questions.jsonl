@@ -1,0 +1,6 @@
+{"id": "q1", "question": "我现在的 GPA 和排名是多少？", "expected_docs": ["L1/档案-基本背景.md"], "expected_keywords": ["3.62", "18"]}
+{"id": "q2", "question": "我的技术栈里哪些还是空白？", "expected_docs": ["L1/档案-基本背景.md"], "expected_keywords": ["消息队列", "Kubernetes"]}
+{"id": "q3", "question": "第一版只用向量检索时 Recall@5 是多少？", "expected_docs": ["L1/项目-检索实验.md"], "expected_keywords": ["0.61", "0.79"]}
+{"id": "q4", "question": "寒假实习的目标城市和开始时间？", "expected_docs": ["L1/计划-求职时间线.md"], "expected_keywords": ["杭州", "上海", "1 月"]}
+{"id": "q5", "question": "为什么纯向量检索会漏掉专有名词？", "expected_docs": ["L0/课程-信息检索笔记.md"], "expected_keywords": ["精确匹配", "低频"]}
+{"id": "q6", "question": "PDF 解析踩了什么坑？", "expected_docs": ["L1/项目-检索实验.md"], "expected_keywords": ["两栏", "串行"]}
